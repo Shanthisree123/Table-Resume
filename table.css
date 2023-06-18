@@ -14,3 +14,22 @@ body,td,th {
    li{
     font-weight: lighter;
    }
+   .th{
+    align:center;
+   }
+   table{
+    padding: 20px;
+   }
+   .edu{
+    height: 40px;
+   }
+   .audio{
+    text-align: center;
+    background-color: rgb(125, 125, 210);
+   }
+   .video{
+    text-align: center;
+   }
+   .websites{
+    text-align: center;
+   }
