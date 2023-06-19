@@ -21,14 +21,15 @@ body,td,th {
     padding: 20px;
    }
    .edu{
-    height: 40px;
+    padding: 40px;
    }
    .audio{
     text-align: center;
-    background-color: rgb(125, 125, 210);
+    background-color: rgb(230, 9, 201);
    }
    .video{
     text-align: center;
+    background-color: rgb(33, 222, 232);
    }
    .websites{
     text-align: center;
